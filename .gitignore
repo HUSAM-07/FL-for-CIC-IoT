@@ -1,0 +1,5 @@
+*.pkl
+*.npy
+__pycache__/
+latest
+.venv
