@@ -4,3 +4,6 @@ Paper:   [CICIoT2023: A Real-Time Dataset and Benchmark for Large-Scale Attacks 
 
 Dataset: [CIC IoT Dataset 2023](https://www.unb.ca/cic/datasets/iotdataset-2023.html)
 
+## Corrections and Updates
+- added updated versions of libraries
+- pickle files for the trained models are also uploaded
